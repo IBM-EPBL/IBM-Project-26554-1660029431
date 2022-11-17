@@ -34,7 +34,7 @@ This project's main techniques that are concentrated as
 - IBM Cloud Console (Watson Studio)
 
 ## Team mates 
-- Tamilselvam M (Team Leader)
+- Tamilselvam V (Team Leader)
 - Thirunavukarasu S
 - Sathishkumar L
 - Sudhakar S
