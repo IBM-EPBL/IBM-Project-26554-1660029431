@@ -39,3 +39,7 @@ This project's main techniques that are concentrated as
 - Sathishkumar L
 - Sudhakar S
 - Sathish K
+
+#### College Name :Sona College of Technology
+
+>##### Team ID : PNT2022TMID19104
